@@ -1,0 +1,4 @@
+[submodule "WordPress"]
+	path = WordPress
+	url = git@github.com:WordPress/WordPress.git
+	branch = master
